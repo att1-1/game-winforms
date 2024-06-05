@@ -1,0 +1,30 @@
+C:\Users\Jenus\game\Platform game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jenus\game\Platform game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jenus\game\Platform game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jenus\game\Platform game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Jenus\game\Platform game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jenus\game\Platform game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Jenus\game\Platform game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jenus\game\Platform game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jenus\game\Platform game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Jenus\game\Platform game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Jenus\Desktop\game\game-winforms-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jenus\Desktop\game\game-winforms-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jenus\Desktop\game\game-winforms-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jenus\Desktop\game\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Jenus\Desktop\game\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Jenus\Desktop\game\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jenus\Desktop\game\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Jenus\Desktop\game\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jenus\Desktop\game\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jenus\Desktop\game\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\4888044\Downloads\game-winforms-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\4888044\Downloads\game-winforms-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\4888044\Downloads\game-winforms-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\4888044\Downloads\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\4888044\Downloads\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\4888044\Downloads\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\4888044\Downloads\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\4888044\Downloads\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\4888044\Downloads\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\4888044\Downloads\game-winforms-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
